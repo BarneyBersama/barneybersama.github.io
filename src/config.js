@@ -17,9 +17,9 @@ module.exports = {
         behance: '',
         medium: '',
         devto: '',
-        website: 'https://akiekano.github.io',
-        phone: '',
-        email: 'hello.akiekano@gmail.com'
+        website: '',
+        phone: '+62 851 5601 1597',
+        email: 'barneybersama@gmail.com'
     },
     skills: [
         'PHP',
