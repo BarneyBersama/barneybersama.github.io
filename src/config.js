@@ -1,7 +1,7 @@
 // config.js
 module.exports = {
     github: {
-        username: 'Akiekano', // Your GitHub org/user name. (Required)
+        username: 'barneybersama', // Your GitHub org/user name. (Required)
         sortBy: 'stars', // stars | updated
         limit: 8, // How many projects to display.
         exclude: {
@@ -92,7 +92,7 @@ module.exports = {
 //         snippetVersion : 6
 //     },
     themeConfig: {
-        default: 'light',
+        default: 'dark',
 
         // Hides the switch in the navbar
         // Useful if you want to support a single color mode
